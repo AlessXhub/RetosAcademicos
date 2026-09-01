@@ -1,0 +1,1 @@
+export const SEGUNDOS_POR_PREGUNTA_RELOJ = 15;
